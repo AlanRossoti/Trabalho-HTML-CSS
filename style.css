@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+
+
+body {
+    background-color: blanchedalmond;
+}
+
+main {
+    background-color: rgb(221, 217, 192);
+    width: 600px;
+    padding: 10px;
+    margin:auto;
+    justify-content: end;
+}
